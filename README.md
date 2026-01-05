@@ -1,5 +1,6 @@
 
 ##說明BY GEMINI
+
 這是一個基於 Arduino Nano 開發的「觸感與視覺優化」節拍器。針對物理結構（Foam Optimized）進行了音效與視覺的細微調校。
 
 ## 📊 核心技術數據 (Specs)
